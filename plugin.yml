@@ -1,7 +1,7 @@
 main: com.github.underplayer97.LPriz.Main
 name: PrizLeave
 version: '1.0.0'
-description: Skywars Leave Command
+description: OP Prizons Leave Command
 load: POSTWORLD
 author: 11C Development team and 11C Java Development team
 website: https://11c.org/
