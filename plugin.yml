@@ -11,10 +11,10 @@ softdepend: []
 loadbefore: []
 permisions:
    LPriz.Leave:
-      description: Leave to the bedwars lobby
+      description: Leave to the OP Prizons lobby
       default: true
 commands: 
    Leave:
-      description: Leave to the Skywars lobby
+      description: Leave to the OP Prizons lobby
       permission: LPriz.Leave
       useage: /leave
